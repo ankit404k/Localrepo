@@ -1,3 +1,9 @@
 ul{
     color: tomato;
 }
+
+p{
+    color: cadetblue;
+    font-style: italic;
+    text-align: center;
+}
